@@ -8,20 +8,18 @@
     background-size: cover;
     position: relative;
     background-color: rgba(0, 0, 0, 0.329);
-    
-
   }
 
-  .banner_text{
-      font-family: 'Merriweather', serif;
-      font-size: 170%;
-  }
   .banner_text h1{
-      font-family: 'Merriweather', serif;
-      font-size: 70px;
+      /* font-family: 'Merriweather', serif; */
+      font-family: Sansita One,serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 5.2rem;
+      line-height: 1.2em;
   }
 
   .btn_color{
     background-color: #b4d5e5 !important;
-    width: 120px;
+    /* width: 120px; */
   }
