@@ -1,0 +1,27 @@
+
+.banner {
+    background-image: url("https://i.ibb.co/y6W0h6r/bannarmain111.jpg");
+    /* background-color: #cccccc; */
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.329);
+    
+
+  }
+
+  .banner_text{
+      font-family: 'Merriweather', serif;
+      font-size: 170%;
+  }
+  .banner_text h1{
+      font-family: 'Merriweather', serif;
+      font-size: 70px;
+  }
+
+  .btn_color{
+    background-color: #b4d5e5 !important;
+    width: 120px;
+  }
